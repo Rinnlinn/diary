@@ -1,2 +1,2 @@
 # diary
-すごく自己満足に日記を書くためだけのレポジトリ　色々試したりしてる
+This repository is my diary in Sphinx. And I experiment in this repository
